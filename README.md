@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Group_9_Project_1
 # Housing Analysis Project
 
@@ -33,7 +33,7 @@ This project explores the relationship between various housing features (such as
 
 ## Key Findings
 - **Location, Garage Presence, Number of Bedrooms, Number of Bathrooms, Condition, and Square Footage**: None of these factors individually showed a statistically significant impact on house prices.
-- **Overall Insight**: he dataset suggests that factors beyond these property characteristics may influence house prices more significantly.
+- **Overall Insight**: The dataset suggests that factors beyond these property characteristics may influence house prices more significantly.
 
 ## Challenges & Insights
 - **Challenge**: The dataset had similar distributions across all observed factors, making it difficult to detect clear patterns.
@@ -59,5 +59,5 @@ This project explores the relationship between various housing features (such as
 - No code was directly copied from external sources such as Stack Overflow or similar forums.
 
 
----
+
 
